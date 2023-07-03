@@ -8,21 +8,19 @@
 
 <p align="left"> <a href="https://twitter.com/i_vamaa" target="blank"><img src="https://img.shields.io/twitter/follow/i_vamaa?logo=twitter&style=for-the-badge" alt="i_vamaa" /></a> </p> -->
 
-- 🔭 I’m currently working on **building Codevite. (I'll let you kmnow what it's about when it's out**
+- 🔭 I’m currently **building Codevite and Reeework Agency.**
 
-- 🌱 I’m currently learning **React Native, and C#**
+- 👯 I’m looking to collaborate on **any project. As long as it's fun and impactful**
 
-- 👯 I’m looking to collaborate on **any project at the moment. As long as it's fun and impactful**
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/victorama](https://linktr.ee/victorama)
+- 👨‍💻 All of my projects are available at here
 
 - 📝 I regularly write articles on [https://medium.com/@amavictor47](https://medium.com/@amavictor47)
 
-- 💬 Ask me about **React, JavaScript, also MEARN CSS, Firebase**
+- 💬 Ask me about **React, JavaScript, TypeScript, ReactNative, Firebase**
 
 - 📫 How to reach me **amavictor47@gmail.com**
 
-- ⚡ Fun fact **I am amazing guy. Trust me, you'll wanna work with me 😉**
+- ⚡ Fun fact **I am an amazing guy. Trust me 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
